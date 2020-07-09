@@ -16,7 +16,7 @@ if(!empty($_POST)){
 
 ?>
 
-<h1>Add Contact</h1>
+<h2>Add Contact</h2>
 
 <form action="" method="post">
     <input type="text" name="name" placeholder="Name"><br><br>
